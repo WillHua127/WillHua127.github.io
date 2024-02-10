@@ -1,3 +1,2 @@
-This is my personal website: wanjiazhao1203.github.io
-
+Welcome to Will Hua's Personal Website.
 Style referenced from http://hexianghu.com/.
